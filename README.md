@@ -11,3 +11,11 @@ Professores:
 - Gerenciar planejamento de aulas, notas e presença.
 - Fazer comunicações a alunos.
 - Ser notificado de eventos
+
+## Colaboradores
+
+- [Cesar Koprowski](https://github.com/cesarpkoprowski)
+- [Guilherme Ribeiro](https://github.com/404)
+- [Ithallo Tulio](https://github.com/ithallotulio)
+- [Pedro Takeshi](https://github.com/liltaksss)
+- [Victor Kenzo](https://github.com/2StaiNN2)
